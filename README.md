@@ -6,7 +6,10 @@ node myFirstWeatherAPI.js
 
 API will display:
 <br>
-error status
-status code (expected 200)
-data from api
+error status<br>
+
+status code (expected 200)<br>
+
+data from api<br>
+
 string - "The Sun will set at (UTC time).
